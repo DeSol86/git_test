@@ -1,0 +1,2 @@
+It's fun to learn Git and GitHub.
+Austin is my dog.
